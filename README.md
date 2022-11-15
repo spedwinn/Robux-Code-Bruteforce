@@ -8,3 +8,9 @@ Go to Extensions in your browser, make it to developer mode, click load unpacked
 
 
 FOR MORE HELP ADD spedwin#0234 ON DISCORD
+
+
+---Changelog---
+[+] Added Auto Redeem
+[-] Removed Bug (where it would crash as it hits a working code)
+---Changelog---
